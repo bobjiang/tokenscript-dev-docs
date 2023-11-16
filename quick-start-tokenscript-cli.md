@@ -1,8 +1,8 @@
 ---
-description: Learn to create a TokenScript project in minutes.
+description: Learn to create a TokenScript project in minutes with CLI.
 ---
 
-# Quick Start
+# Quick Start TokenScript CLI
 
 In this tutorial you will:
 
@@ -136,7 +136,7 @@ It will pop up a browser tab automatically, if not you can visit [http://localho
 
 A classic tokenscript project lifecycle is as following:
 
-1. Firstly, you need to create a project. Refer to [#create-the-tokenscript-project](quick-start.md#create-the-tokenscript-project "mention")
-2. Second, build the project. Refer to [#build-a-project](quick-start.md#build-a-project "mention")
-3. Third, you can see the demo by emulate the project. Refer to [#test-a-project](quick-start.md#test-a-project "mention")
+1. Firstly, you need to create a project. Refer to [#create-the-tokenscript-project](quick-start-tokenscript-cli.md#create-the-tokenscript-project "mention")
+2. Second, build the project. Refer to [#build-a-project](quick-start-tokenscript-cli.md#build-a-project "mention")
+3. Third, you can see the demo by emulate the project. Refer to [#test-a-project](quick-start-tokenscript-cli.md#test-a-project "mention")
 4. Fourth, optional, sign the tokenscript.tsml file with command `tokenscript sign`.
